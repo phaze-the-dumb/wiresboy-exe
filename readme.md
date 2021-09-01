@@ -1,13 +1,9 @@
 hello...
 
-Im a developer.. As you probably guessed I do all sorts of stuff (mainly nodejs (cause its the best)) but ok
+Im a developer.. As you probably guessed I do all sorts of stuff (mainly nodejs and cpp)
 
-Also im trying to make some webradio software in nodejs as i thought it would be fun... It wasn't you can find the individual stations at the `phaze-cast/station` repo
-
-Also im makeing an RPG Game based in discord and a web browser.. Go check it out please https://abot.gq
-
-I also am learning C++ to make beat saber mods... Thats also quite hard...
+I mainly make websites and beatsaber mods for the oculus quest.
 
 Anyways
 
-Please Donate: https://www.buymeacoffee.com/wiresdev
+Please Donate: https://ko-fi.com/phazedev
