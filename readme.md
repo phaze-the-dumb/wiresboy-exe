@@ -1,6 +1,6 @@
 hello...
 
-Im a developer.. As you probably guessed I do all sorts of stuff (mainly nodejs and cpp)
+Im a developer.. As you probably guessed I do all sorts of stuff (mainly nodejs and c++)
 
 I mainly make websites and beatsaber mods for the oculus quest.
 
